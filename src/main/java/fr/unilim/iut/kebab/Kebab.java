@@ -1,7 +1,8 @@
-package fr.unilim.iut.kebabvisitor;
+package fr.unilim.iut.kebab;
 
 import java.util.List;
-import fr.unilim.iut.kebabvisitor.ingredients.Ingredient;
+
+import fr.unilim.iut.kebab.ingredients.Ingredient;
 
 public interface Kebab {
 	List<Ingredient> getIngredients();

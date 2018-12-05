@@ -1,7 +1,9 @@
-package fr.unilim.iut.kebabvisitor;
+package fr.unilim.iut.kebab;
 
 
-import fr.unilim.iut.kebabvisitor.ingredients.*;
+import fr.unilim.iut.kebab.Assiette;
+import fr.unilim.iut.kebab.Kebab;
+import fr.unilim.iut.kebab.ingredients.*;
 
 import org.junit.Before;
 import org.junit.Test;

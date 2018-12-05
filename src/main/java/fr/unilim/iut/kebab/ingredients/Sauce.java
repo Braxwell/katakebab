@@ -1,10 +1,10 @@
-package fr.unilim.iut.kebabvisitor.ingredients;
+package fr.unilim.iut.kebab.ingredients;
 
-import fr.unilim.iut.kebabvisitor.Kebab;
+import fr.unilim.iut.kebab.Kebab;
 
-public class Oignon extends Ingredient {
+public class Sauce extends Ingredient {
 
-	public Oignon(String nom, Kebab kebab) {
+	public Sauce(String nom, Kebab kebab) {
 		super(nom, kebab);
 	}
 

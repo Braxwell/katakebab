@@ -1,7 +1,8 @@
-package fr.unilim.iut.kebabvisitor.ingredients;
+package fr.unilim.iut.kebab.ingredients;
 
 import java.util.List;
-import fr.unilim.iut.kebabvisitor.Kebab;
+
+import fr.unilim.iut.kebab.Kebab;
 
 public abstract class Ingredient implements Kebab {
 
